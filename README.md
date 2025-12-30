@@ -38,9 +38,10 @@ I enjoy building software that is **clean, reliable, and purposeful**.
 ---
 
 ### ⚙️ Backend Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-6B7280?style=for-the-badge&logo=express)
-![Django](https://img.shields.io/badge/Django-0F766E?style=for-the-badge&logo=django&logoColor=fff)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 
 ---
 
