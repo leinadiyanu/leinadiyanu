@@ -10,7 +10,7 @@
 
 ## 👋 Hi, I’m Daniel Akande (@leinadiyanu)
 
-🎓 **Engineering Student** at *Obafemi Awolowo University*  
+🎓 **Aerospace Engineering Student** at *Obafemi Awolowo University*  
 💻 **Backend Developer** | System Designer  
 🚀 Building **scalable, real-world software systems**
 
