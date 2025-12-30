@@ -32,14 +32,32 @@ I enjoy building software that is **clean, reliable, and purposeful**.
 
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
 
-### ⚙️ Backend & Databases
+---
+
+### ⚙️ Backend Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 ![Express](https://img.shields.io/badge/Express.js-6B7280?style=for-the-badge&logo=express)
+![Django](https://img.shields.io/badge/Django-0F766E?style=for-the-badge&logo=django&logoColor=fff)
+
+---
+
+### 🧠 AI / Data / ML
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-9333EA?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=fff)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff)
+
+---
+
+### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
 ![SQLite](https://img.shields.io/badge/SQLite-0EA5E9?style=for-the-badge&logo=sqlite&logoColor=fff)
+
+---
 
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git&logoColor=fff)
