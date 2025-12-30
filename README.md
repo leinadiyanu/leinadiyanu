@@ -87,14 +87,6 @@ A secure university-level voting platform built from scratch.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leinadiyanu&theme=react-dark&hide_border=true" />
-</p>
-
----
-
 ## 🚀 Currently Working On
 - Advanced backend architecture
 - Full-stack development (React.js)
